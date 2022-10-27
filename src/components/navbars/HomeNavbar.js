@@ -1,4 +1,3 @@
-import MainIcon from "../badges/MainIcon";
 
 const HomeNavbar = () => {
   return (

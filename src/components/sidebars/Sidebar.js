@@ -1,8 +1,5 @@
 import SimpleTitle from "../texts/SimpleTitle";
 import SidebarLinkText from "../texts/SidebarLinkText";
-import mail from "../../assets/banners/socials/mail.png";
-import youtube from "../../assets/banners/socials/youtube.png";
-import facebook from "../../assets/banners/socials/facebook.png";
 import { useState } from "react";
 import { useHistory } from "react-router-dom";
 
